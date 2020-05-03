@@ -3,7 +3,7 @@
 ## Description
 * A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
 
-![System Layout](https://github.com/joshlendi/Hydroponic-Garden/blob/master/Theory%20of%20Operation_Color.png)
+![System Layout](https://github.com/joshlendi/Hydroponic-Garden/blob/master/Images/System%20Layout_Color.png)
 
 ## Table of Contents
 * Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
