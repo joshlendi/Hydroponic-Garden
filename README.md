@@ -20,4 +20,4 @@
 
 ## License
 * GNU GENERAL PUBLIC LICENSE
-* See [License.md] (https://github.com/joshlendi/Hydroponic-Garden/blob/master/LICENSE) for more information
+* See [License.md](https://github.com/joshlendi/Hydroponic-Garden/blob/master/LICENSE) for more information
